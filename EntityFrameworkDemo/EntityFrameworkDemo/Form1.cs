@@ -41,7 +41,7 @@ namespace EntityFrameworkDemo
         }
         private void SearchData(string key)
         {
-            dgwProducts.DataSource = _productDal.GetAll().Where(p=>p.Name.ToUpper().Contains(key.ToUpper())).ToList();
+            dgwProducts.DataSource = _productDal.GetByName(key);
         }
 
         private void dgwProducts_CellClick(object sender, DataGridViewCellEventArgs e)
