@@ -39,6 +39,10 @@ namespace EntityFrameworkDemo
         {
             dgwProducts.DataSource = _productDal.GetAll();
         }
+        private void SearchData(string key)
+        {
+            dgwProducts.DataSource = _productDal.GetAll().Where(p=>p.Name.ToUpper().Contains(key.ToUpper())).ToList();
+        }
 
         private void dgwProducts_CellClick(object sender, DataGridViewCellEventArgs e)
         {
@@ -69,6 +73,11 @@ namespace EntityFrameworkDemo
             });
             MessageBox.Show("Product Deleted!");
             LoadData();
+        }
+
+        private void tbxSearch_TextChanged(object sender, EventArgs e)
+        {
+            SearchData(tbxSearch.Text);
         }
     }
 }
