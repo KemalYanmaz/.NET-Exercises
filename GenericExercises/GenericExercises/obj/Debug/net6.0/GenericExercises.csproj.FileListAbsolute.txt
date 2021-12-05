@@ -1,0 +1,15 @@
+C:\Users\kemal\Desktop\.NET-Exercises\GenericExercises\GenericExercises\bin\Debug\net6.0\GenericExercises.exe
+C:\Users\kemal\Desktop\.NET-Exercises\GenericExercises\GenericExercises\bin\Debug\net6.0\GenericExercises.deps.json
+C:\Users\kemal\Desktop\.NET-Exercises\GenericExercises\GenericExercises\bin\Debug\net6.0\GenericExercises.runtimeconfig.json
+C:\Users\kemal\Desktop\.NET-Exercises\GenericExercises\GenericExercises\bin\Debug\net6.0\GenericExercises.dll
+C:\Users\kemal\Desktop\.NET-Exercises\GenericExercises\GenericExercises\bin\Debug\net6.0\ref\GenericExercises.dll
+C:\Users\kemal\Desktop\.NET-Exercises\GenericExercises\GenericExercises\bin\Debug\net6.0\GenericExercises.pdb
+C:\Users\kemal\Desktop\.NET-Exercises\GenericExercises\GenericExercises\obj\Debug\net6.0\GenericExercises.csproj.AssemblyReference.cache
+C:\Users\kemal\Desktop\.NET-Exercises\GenericExercises\GenericExercises\obj\Debug\net6.0\GenericExercises.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kemal\Desktop\.NET-Exercises\GenericExercises\GenericExercises\obj\Debug\net6.0\GenericExercises.AssemblyInfoInputs.cache
+C:\Users\kemal\Desktop\.NET-Exercises\GenericExercises\GenericExercises\obj\Debug\net6.0\GenericExercises.AssemblyInfo.cs
+C:\Users\kemal\Desktop\.NET-Exercises\GenericExercises\GenericExercises\obj\Debug\net6.0\GenericExercises.csproj.CoreCompileInputs.cache
+C:\Users\kemal\Desktop\.NET-Exercises\GenericExercises\GenericExercises\obj\Debug\net6.0\GenericExercises.dll
+C:\Users\kemal\Desktop\.NET-Exercises\GenericExercises\GenericExercises\obj\Debug\net6.0\ref\GenericExercises.dll
+C:\Users\kemal\Desktop\.NET-Exercises\GenericExercises\GenericExercises\obj\Debug\net6.0\GenericExercises.pdb
+C:\Users\kemal\Desktop\.NET-Exercises\GenericExercises\GenericExercises\obj\Debug\net6.0\GenericExercises.genruntimeconfig.cache
