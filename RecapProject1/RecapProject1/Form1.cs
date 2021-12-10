@@ -22,7 +22,6 @@ namespace RecapProject1
         {
             ListProducts();
             ListCategories();
-
         }
 
         private void ListProducts()
@@ -54,7 +53,7 @@ namespace RecapProject1
         {
             using (NorthwindContext context = new NorthwindContext())
             {
-                dgwProduct.DataSource = context.Products.Where(p => p.ProductName.Contains(key)).ToList();
+                dgwProduct.DataSource = context.Products.Where(p => p.ProductName.ToLower().Contains(key.ToLower())).ToList();
             }
         }
 
