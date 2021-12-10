@@ -5,7 +5,42 @@
       "ProjectGuid": "6e086cc3-0524-44c8-9db7-ac15bc6fddb7",
       "DisplayName": "ConsoleApp1",
       "ColorIndex": 0
+    },
+    "869726f7-cc0b-41f5-871c-e70997ce4062": {
+      "ProjectGuid": "869726f7-cc0b-41f5-871c-e70997ce4062",
+      "DisplayName": "Attiributes",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Diğer Dosyalar",
+      "ColorIndex": -1
+    },
+    "57a279aa-0359-48a1-b6ca-3bcc87bccd6f": {
+      "ProjectGuid": "57a279aa-0359-48a1-b6ca-3bcc87bccd6f",
+      "DisplayName": "Reflection",
+      "ColorIndex": 2
+    },
+    "d69a1074-b7ff-430d-a9e0-0bb9ad05fcba": {
+      "ProjectGuid": "d69a1074-b7ff-430d-a9e0-0bb9ad05fcba",
+      "DisplayName": "Delegates",
+      "ColorIndex": 3
+    },
+    "1beddb6b-2e0d-4483-a49c-0bb7f4d9716c": {
+      "ProjectGuid": "1beddb6b-2e0d-4483-a49c-0bb7f4d9716c",
+      "DisplayName": "Actions",
+      "ColorIndex": 4
+    },
+    "c2e0304c-22fa-46b8-8ff0-ecc0e0081a85": {
+      "ProjectGuid": "c2e0304c-22fa-46b8-8ff0-ecc0e0081a85",
+      "DisplayName": "Func",
+      "ColorIndex": 5
+    },
+    "5fda5c6a-e682-4cac-bdeb-c8ab0157361c": {
+      "ProjectGuid": "5fda5c6a-e682-4cac-bdeb-c8ab0157361c",
+      "DisplayName": "Events",
+      "ColorIndex": 6
     }
   },
-  "NextColorIndex": 1
+  "NextColorIndex": 7
 }

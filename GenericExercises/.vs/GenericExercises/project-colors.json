@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "99eec015-7569-4f51-8782-d2becd7ff1fe": {
+      "ProjectGuid": "99eec015-7569-4f51-8782-d2becd7ff1fe",
+      "DisplayName": "GenericExercises",
+      "ColorIndex": 0
+    },
+    "143550ed-5a01-45ad-8ebd-bd1757798691": {
+      "ProjectGuid": "143550ed-5a01-45ad-8ebd-bd1757798691",
+      "DisplayName": "GenericConstraints",
+      "ColorIndex": 1
+    },
+    "c95fa964-895f-406e-8577-4f73efc0717d": {
+      "ProjectGuid": "c95fa964-895f-406e-8577-4f73efc0717d",
+      "DisplayName": "Attributes",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}
