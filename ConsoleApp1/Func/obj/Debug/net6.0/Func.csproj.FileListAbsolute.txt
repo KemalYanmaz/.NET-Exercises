@@ -1,0 +1,14 @@
+C:\Users\kemal\Desktop\.NET-Exercises\ConsoleApp1\Func\bin\Debug\net6.0\Func.exe
+C:\Users\kemal\Desktop\.NET-Exercises\ConsoleApp1\Func\bin\Debug\net6.0\Func.deps.json
+C:\Users\kemal\Desktop\.NET-Exercises\ConsoleApp1\Func\bin\Debug\net6.0\Func.runtimeconfig.json
+C:\Users\kemal\Desktop\.NET-Exercises\ConsoleApp1\Func\bin\Debug\net6.0\Func.dll
+C:\Users\kemal\Desktop\.NET-Exercises\ConsoleApp1\Func\bin\Debug\net6.0\ref\Func.dll
+C:\Users\kemal\Desktop\.NET-Exercises\ConsoleApp1\Func\bin\Debug\net6.0\Func.pdb
+C:\Users\kemal\Desktop\.NET-Exercises\ConsoleApp1\Func\obj\Debug\net6.0\Func.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kemal\Desktop\.NET-Exercises\ConsoleApp1\Func\obj\Debug\net6.0\Func.AssemblyInfoInputs.cache
+C:\Users\kemal\Desktop\.NET-Exercises\ConsoleApp1\Func\obj\Debug\net6.0\Func.AssemblyInfo.cs
+C:\Users\kemal\Desktop\.NET-Exercises\ConsoleApp1\Func\obj\Debug\net6.0\Func.csproj.CoreCompileInputs.cache
+C:\Users\kemal\Desktop\.NET-Exercises\ConsoleApp1\Func\obj\Debug\net6.0\Func.dll
+C:\Users\kemal\Desktop\.NET-Exercises\ConsoleApp1\Func\obj\Debug\net6.0\ref\Func.dll
+C:\Users\kemal\Desktop\.NET-Exercises\ConsoleApp1\Func\obj\Debug\net6.0\Func.pdb
+C:\Users\kemal\Desktop\.NET-Exercises\ConsoleApp1\Func\obj\Debug\net6.0\Func.genruntimeconfig.cache
