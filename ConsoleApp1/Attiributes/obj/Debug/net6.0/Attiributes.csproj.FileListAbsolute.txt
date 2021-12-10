@@ -1,0 +1,14 @@
+C:\Users\kemal\Desktop\.NET-Exercises\ConsoleApp1\Attiributes\bin\Debug\net6.0\Attiributes.exe
+C:\Users\kemal\Desktop\.NET-Exercises\ConsoleApp1\Attiributes\bin\Debug\net6.0\Attiributes.deps.json
+C:\Users\kemal\Desktop\.NET-Exercises\ConsoleApp1\Attiributes\bin\Debug\net6.0\Attiributes.runtimeconfig.json
+C:\Users\kemal\Desktop\.NET-Exercises\ConsoleApp1\Attiributes\bin\Debug\net6.0\Attiributes.dll
+C:\Users\kemal\Desktop\.NET-Exercises\ConsoleApp1\Attiributes\bin\Debug\net6.0\ref\Attiributes.dll
+C:\Users\kemal\Desktop\.NET-Exercises\ConsoleApp1\Attiributes\bin\Debug\net6.0\Attiributes.pdb
+C:\Users\kemal\Desktop\.NET-Exercises\ConsoleApp1\Attiributes\obj\Debug\net6.0\Attiributes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kemal\Desktop\.NET-Exercises\ConsoleApp1\Attiributes\obj\Debug\net6.0\Attiributes.AssemblyInfoInputs.cache
+C:\Users\kemal\Desktop\.NET-Exercises\ConsoleApp1\Attiributes\obj\Debug\net6.0\Attiributes.AssemblyInfo.cs
+C:\Users\kemal\Desktop\.NET-Exercises\ConsoleApp1\Attiributes\obj\Debug\net6.0\Attiributes.csproj.CoreCompileInputs.cache
+C:\Users\kemal\Desktop\.NET-Exercises\ConsoleApp1\Attiributes\obj\Debug\net6.0\Attiributes.dll
+C:\Users\kemal\Desktop\.NET-Exercises\ConsoleApp1\Attiributes\obj\Debug\net6.0\ref\Attiributes.dll
+C:\Users\kemal\Desktop\.NET-Exercises\ConsoleApp1\Attiributes\obj\Debug\net6.0\Attiributes.pdb
+C:\Users\kemal\Desktop\.NET-Exercises\ConsoleApp1\Attiributes\obj\Debug\net6.0\Attiributes.genruntimeconfig.cache
