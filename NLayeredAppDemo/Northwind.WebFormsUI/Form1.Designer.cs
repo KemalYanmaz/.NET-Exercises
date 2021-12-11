@@ -35,9 +35,9 @@
             // dgwProduct
             // 
             this.dgwProduct.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.dgwProduct.Location = new System.Drawing.Point(12, 137);
+            this.dgwProduct.Location = new System.Drawing.Point(12, 12);
             this.dgwProduct.Name = "dgwProduct";
-            this.dgwProduct.Size = new System.Drawing.Size(776, 191);
+            this.dgwProduct.Size = new System.Drawing.Size(776, 426);
             this.dgwProduct.TabIndex = 0;
             // 
             // Form1
