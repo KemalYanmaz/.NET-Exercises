@@ -23,3 +23,5 @@ C:\Users\kemal\Desktop\.NET-Exercises\NLayeredAppDemo\Northwind.WebFormsUI\obj\D
 C:\Users\kemal\Desktop\.NET-Exercises\NLayeredAppDemo\Northwind.WebFormsUI\obj\Debug\Northwind.WebFormsUI.pdb
 C:\Users\kemal\Desktop\.NET-Exercises\NLayeredAppDemo\Northwind.WebFormsUI\bin\Debug\FluentValidation.dll
 C:\Users\kemal\Desktop\.NET-Exercises\NLayeredAppDemo\Northwind.WebFormsUI\bin\Debug\FluentValidation.xml
+C:\Users\kemal\Desktop\.NET-Exercises\NLayeredAppDemo\Northwind.WebFormsUI\bin\Debug\Ninject.dll
+C:\Users\kemal\Desktop\.NET-Exercises\NLayeredAppDemo\Northwind.WebFormsUI\bin\Debug\Ninject.xml
