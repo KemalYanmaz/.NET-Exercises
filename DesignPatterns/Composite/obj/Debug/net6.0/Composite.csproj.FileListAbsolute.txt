@@ -1,0 +1,14 @@
+C:\Users\kemal\Desktop\.NET-Exercises\DesignPatterns\Composite\bin\Debug\net6.0\Composite.exe
+C:\Users\kemal\Desktop\.NET-Exercises\DesignPatterns\Composite\bin\Debug\net6.0\Composite.deps.json
+C:\Users\kemal\Desktop\.NET-Exercises\DesignPatterns\Composite\bin\Debug\net6.0\Composite.runtimeconfig.json
+C:\Users\kemal\Desktop\.NET-Exercises\DesignPatterns\Composite\bin\Debug\net6.0\Composite.dll
+C:\Users\kemal\Desktop\.NET-Exercises\DesignPatterns\Composite\bin\Debug\net6.0\ref\Composite.dll
+C:\Users\kemal\Desktop\.NET-Exercises\DesignPatterns\Composite\bin\Debug\net6.0\Composite.pdb
+C:\Users\kemal\Desktop\.NET-Exercises\DesignPatterns\Composite\obj\Debug\net6.0\Composite.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kemal\Desktop\.NET-Exercises\DesignPatterns\Composite\obj\Debug\net6.0\Composite.AssemblyInfoInputs.cache
+C:\Users\kemal\Desktop\.NET-Exercises\DesignPatterns\Composite\obj\Debug\net6.0\Composite.AssemblyInfo.cs
+C:\Users\kemal\Desktop\.NET-Exercises\DesignPatterns\Composite\obj\Debug\net6.0\Composite.csproj.CoreCompileInputs.cache
+C:\Users\kemal\Desktop\.NET-Exercises\DesignPatterns\Composite\obj\Debug\net6.0\Composite.dll
+C:\Users\kemal\Desktop\.NET-Exercises\DesignPatterns\Composite\obj\Debug\net6.0\ref\Composite.dll
+C:\Users\kemal\Desktop\.NET-Exercises\DesignPatterns\Composite\obj\Debug\net6.0\Composite.pdb
+C:\Users\kemal\Desktop\.NET-Exercises\DesignPatterns\Composite\obj\Debug\net6.0\Composite.genruntimeconfig.cache
