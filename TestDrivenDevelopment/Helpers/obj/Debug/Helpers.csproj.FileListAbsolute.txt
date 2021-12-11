@@ -1,0 +1,8 @@
+C:\Users\kemal\Desktop\.NET-Exercises\TestDrivenDevelopment\Helpers\bin\Debug\Helpers.exe.config
+C:\Users\kemal\Desktop\.NET-Exercises\TestDrivenDevelopment\Helpers\bin\Debug\Helpers.exe
+C:\Users\kemal\Desktop\.NET-Exercises\TestDrivenDevelopment\Helpers\bin\Debug\Helpers.pdb
+C:\Users\kemal\Desktop\.NET-Exercises\TestDrivenDevelopment\Helpers\obj\Debug\Helpers.csproj.AssemblyReference.cache
+C:\Users\kemal\Desktop\.NET-Exercises\TestDrivenDevelopment\Helpers\obj\Debug\Helpers.csproj.SuggestedBindingRedirects.cache
+C:\Users\kemal\Desktop\.NET-Exercises\TestDrivenDevelopment\Helpers\obj\Debug\Helpers.csproj.CoreCompileInputs.cache
+C:\Users\kemal\Desktop\.NET-Exercises\TestDrivenDevelopment\Helpers\obj\Debug\Helpers.exe
+C:\Users\kemal\Desktop\.NET-Exercises\TestDrivenDevelopment\Helpers\obj\Debug\Helpers.pdb
