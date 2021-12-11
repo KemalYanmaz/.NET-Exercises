@@ -4,3 +4,6 @@ C:\Users\kemal\Desktop\.NET-Exercises\NLayeredAppDemo\Northwind.Entities\obj\Deb
 C:\Users\kemal\Desktop\.NET-Exercises\NLayeredAppDemo\Northwind.Entities\obj\Debug\Northwind.Entities.csproj.CoreCompileInputs.cache
 C:\Users\kemal\Desktop\.NET-Exercises\NLayeredAppDemo\Northwind.Entities\obj\Debug\Northwind.Entities.dll
 C:\Users\kemal\Desktop\.NET-Exercises\NLayeredAppDemo\Northwind.Entities\obj\Debug\Northwind.Entities.pdb
+C:\Users\kemal\Desktop\.NET-Exercises\NLayeredAppDemo\Northwind.Entities\bin\Debug\FluentValidation.dll
+C:\Users\kemal\Desktop\.NET-Exercises\NLayeredAppDemo\Northwind.Entities\bin\Debug\FluentValidation.xml
+C:\Users\kemal\Desktop\.NET-Exercises\NLayeredAppDemo\Northwind.Entities\obj\Debug\Northwind.Entities.csproj.CopyComplete

@@ -21,3 +21,5 @@ C:\Users\kemal\Desktop\.NET-Exercises\NLayeredAppDemo\Northwind.WebFormsUI\bin\D
 C:\Users\kemal\Desktop\.NET-Exercises\NLayeredAppDemo\Northwind.WebFormsUI\obj\Debug\Northwind.WebFormsUI.csproj.CopyComplete
 C:\Users\kemal\Desktop\.NET-Exercises\NLayeredAppDemo\Northwind.WebFormsUI\obj\Debug\Northwind.WebFormsUI.exe
 C:\Users\kemal\Desktop\.NET-Exercises\NLayeredAppDemo\Northwind.WebFormsUI\obj\Debug\Northwind.WebFormsUI.pdb
+C:\Users\kemal\Desktop\.NET-Exercises\NLayeredAppDemo\Northwind.WebFormsUI\bin\Debug\FluentValidation.dll
+C:\Users\kemal\Desktop\.NET-Exercises\NLayeredAppDemo\Northwind.WebFormsUI\bin\Debug\FluentValidation.xml
