@@ -1,0 +1,11 @@
+C:\Users\kemal\Desktop\.NET-Exercises\TechCareerEntityFramework1\_01_Intro\bin\Debug\_01_Intro.exe.config
+C:\Users\kemal\Desktop\.NET-Exercises\TechCareerEntityFramework1\_01_Intro\bin\Debug\_01_Intro.exe
+C:\Users\kemal\Desktop\.NET-Exercises\TechCareerEntityFramework1\_01_Intro\bin\Debug\_01_Intro.pdb
+C:\Users\kemal\Desktop\.NET-Exercises\TechCareerEntityFramework1\_01_Intro\bin\Debug\System.Data.SqlClient.dll
+C:\Users\kemal\Desktop\.NET-Exercises\TechCareerEntityFramework1\_01_Intro\bin\Debug\System.Data.SqlClient.xml
+C:\Users\kemal\Desktop\.NET-Exercises\TechCareerEntityFramework1\_01_Intro\obj\Debug\_01_Intro.csproj.AssemblyReference.cache
+C:\Users\kemal\Desktop\.NET-Exercises\TechCareerEntityFramework1\_01_Intro\obj\Debug\_01_Intro.csproj.SuggestedBindingRedirects.cache
+C:\Users\kemal\Desktop\.NET-Exercises\TechCareerEntityFramework1\_01_Intro\obj\Debug\_01_Intro.csproj.CoreCompileInputs.cache
+C:\Users\kemal\Desktop\.NET-Exercises\TechCareerEntityFramework1\_01_Intro\obj\Debug\_01_Intro.csproj.CopyComplete
+C:\Users\kemal\Desktop\.NET-Exercises\TechCareerEntityFramework1\_01_Intro\obj\Debug\_01_Intro.exe
+C:\Users\kemal\Desktop\.NET-Exercises\TechCareerEntityFramework1\_01_Intro\obj\Debug\_01_Intro.pdb
