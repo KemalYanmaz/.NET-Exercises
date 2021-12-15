@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d492d37e-25b5-433a-be3a-d4f4348ed520": {
+      "ProjectGuid": "d492d37e-25b5-433a-be3a-d4f4348ed520",
+      "DisplayName": "UnitTestProject1",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Diğer Dosyalar",
+      "ColorIndex": -1
+    },
+    "c68aef5a-7af4-4e9c-afd5-e9b20755bc5a": {
+      "ProjectGuid": "c68aef5a-7af4-4e9c-afd5-e9b20755bc5a",
+      "DisplayName": "Helpers",
+      "ColorIndex": 1
+    },
+    "6a673b8d-44a6-4a39-8f95-10e63153e191": {
+      "ProjectGuid": "6a673b8d-44a6-4a39-8f95-10e63153e191",
+      "DisplayName": "Helpers.Tests",
+      "ColorIndex": 2
+    },
+    "98bff4c2-b5eb-481f-a51d-5d36efceb8e2": {
+      "ProjectGuid": "98bff4c2-b5eb-481f-a51d-5d36efceb8e2",
+      "DisplayName": "Helpers",
+      "ColorIndex": 3
+    },
+    "b5b6cd90-0f6a-4769-99e7-37665d11b375": {
+      "ProjectGuid": "b5b6cd90-0f6a-4769-99e7-37665d11b375",
+      "DisplayName": "ShoppingCart",
+      "ColorIndex": 4
+    },
+    "88525484-2ea3-4ae6-a2e6-d91194756d1c": {
+      "ProjectGuid": "88525484-2ea3-4ae6-a2e6-d91194756d1c",
+      "DisplayName": "ShoppingCart.Tests",
+      "ColorIndex": 5
+    }
+  },
+  "NextColorIndex": 6
+}

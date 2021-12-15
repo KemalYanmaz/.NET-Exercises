@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Helpers.Tests", "Helpers.Te
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Helpers", "Helpers\Helpers.csproj", "{98BFF4C2-B5EB-481F-A51D-5D36EFCEB8E2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShoppingCart", "ShoppingCart\ShoppingCart.csproj", "{B5B6CD90-0F6A-4769-99E7-37665D11B375}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShoppingCart.Tests", "ShoppingCart.Tests\ShoppingCart.Tests.csproj", "{88525484-2EA3-4AE6-A2E6-D91194756D1C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{98BFF4C2-B5EB-481F-A51D-5D36EFCEB8E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{98BFF4C2-B5EB-481F-A51D-5D36EFCEB8E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{98BFF4C2-B5EB-481F-A51D-5D36EFCEB8E2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B5B6CD90-0F6A-4769-99E7-37665D11B375}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5B6CD90-0F6A-4769-99E7-37665D11B375}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5B6CD90-0F6A-4769-99E7-37665D11B375}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5B6CD90-0F6A-4769-99E7-37665D11B375}.Release|Any CPU.Build.0 = Release|Any CPU
+		{88525484-2EA3-4AE6-A2E6-D91194756D1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88525484-2EA3-4AE6-A2E6-D91194756D1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88525484-2EA3-4AE6-A2E6-D91194756D1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88525484-2EA3-4AE6-A2E6-D91194756D1C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
