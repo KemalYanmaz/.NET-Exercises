@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kemal\\Desktop\\.NET-Exercises\\ConsoleApp1\\Reflection\\Reflection.csproj": {}
+    "C:\\Users\\kemal\\Source\\Repos\\KemalYanmaz\\.NET-Exercises\\ConsoleApp1\\Reflection\\Reflection.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kemal\\Desktop\\.NET-Exercises\\ConsoleApp1\\Reflection\\Reflection.csproj": {
+    "C:\\Users\\kemal\\Source\\Repos\\KemalYanmaz\\.NET-Exercises\\ConsoleApp1\\Reflection\\Reflection.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kemal\\Desktop\\.NET-Exercises\\ConsoleApp1\\Reflection\\Reflection.csproj",
+        "projectUniqueName": "C:\\Users\\kemal\\Source\\Repos\\KemalYanmaz\\.NET-Exercises\\ConsoleApp1\\Reflection\\Reflection.csproj",
         "projectName": "Reflection",
-        "projectPath": "C:\\Users\\kemal\\Desktop\\.NET-Exercises\\ConsoleApp1\\Reflection\\Reflection.csproj",
+        "projectPath": "C:\\Users\\kemal\\Source\\Repos\\KemalYanmaz\\.NET-Exercises\\ConsoleApp1\\Reflection\\Reflection.csproj",
         "packagesPath": "C:\\Users\\kemal\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kemal\\Desktop\\.NET-Exercises\\ConsoleApp1\\Reflection\\obj\\",
+        "outputPath": "C:\\Users\\kemal\\Source\\Repos\\KemalYanmaz\\.NET-Exercises\\ConsoleApp1\\Reflection\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kemal\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -54,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }

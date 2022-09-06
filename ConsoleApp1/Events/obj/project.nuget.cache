@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DAFWlRJGLcwVMxXIYRUFOSAIA9eRE42o1FbypBC6/SJf48WyYtSER9YHREiMc1Zi/GyiJYPmr23l6L+EI2UYYg==",
+  "dgSpecHash": "6q1a4Y1JhVKS8hJQ3lAhNLRNUk6tXM6Pbu3FUeLWScwInoAs64GoyW/BtvhYb+U0MQYsttHVpImZQvfvR70Jig==",
   "success": true,
-  "projectFilePath": "C:\\Users\\kemal\\Desktop\\.NET-Exercises\\ConsoleApp1\\Events\\Events.csproj",
+  "projectFilePath": "C:\\Users\\kemal\\Source\\Repos\\KemalYanmaz\\.NET-Exercises\\ConsoleApp1\\Events\\Events.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

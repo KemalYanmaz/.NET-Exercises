@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kemal\\Desktop\\.NET-Exercises\\ConsoleApp1\\Events\\Events.csproj",
+      "projectUniqueName": "C:\\Users\\kemal\\Source\\Repos\\KemalYanmaz\\.NET-Exercises\\ConsoleApp1\\Events\\Events.csproj",
       "projectName": "Events",
-      "projectPath": "C:\\Users\\kemal\\Desktop\\.NET-Exercises\\ConsoleApp1\\Events\\Events.csproj",
+      "projectPath": "C:\\Users\\kemal\\Source\\Repos\\KemalYanmaz\\.NET-Exercises\\ConsoleApp1\\Events\\Events.csproj",
       "packagesPath": "C:\\Users\\kemal\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\kemal\\Desktop\\.NET-Exercises\\ConsoleApp1\\Events\\obj\\",
+      "outputPath": "C:\\Users\\kemal\\Source\\Repos\\KemalYanmaz\\.NET-Exercises\\ConsoleApp1\\Events\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\kemal\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -60,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   }
